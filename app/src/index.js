@@ -59,10 +59,10 @@ const App = {
     }
     else{
       //App.setStatus("Star owned.","status"+"\nStar ID: "+id+" is named "+starName,"starData"+"\nToken Name: "+contract,"contract"+"\nToken Symbol: "+sym,"symbol");
-      //App.setStatus("Star owned.","status");
-      //App.setStatus("Star ID: "+id+" is named "+starName,"starData");
+      App.setStatus("Star owned.","status");
+      App.setStatus("Star ID: "+id+" is named "+starName,"starData");
       App.setStatus("Token Name: "+contract,"contract");
-      //App.setStatus("Token Symbol: "+sym,"symbol");
+      App.setStatus("Token Symbol: "+sym,"symbol");
     }
   }
 
