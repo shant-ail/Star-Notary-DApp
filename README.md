@@ -8,11 +8,16 @@ This Starter Code has already implemented the functionalities you implemented in
 
 ### ##########################################################################
 
-Token Name: Invader
-Token Symbol: INV
-OpenZeppelin Version: ^4.2.0
-Truffle Version: v5.4.3
-Token Address: 0xf3886261adc2eb7d55f8ad2cc07621a0a2006a4b
+# Token Name: 
+Invader
+# Token Symbol: 
+INV
+# OpenZeppelin Version: 
+^4.2.0
+# Truffle Version: 
+v5.4.3
+# Token Address: 
+0xf3886261adc2eb7d55f8ad2cc07621a0a2006a4b
 
 ### ##########################################################################
 
